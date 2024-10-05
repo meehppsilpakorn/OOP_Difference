@@ -275,12 +275,3 @@ int main() {
 | **Use Case**             | Enterprise, web apps, Android       | Data science, scripting, AI   | Systems, games, high-performance apps |
 
 เห็นได้ว่าแต่ละภาษาโปรแกรมล้วนมีข้อแตกต่าง และเหมาะสมกับงานในตัวเอง นักพัฒนาจำเป็นจะต้องเลือกภาษาให้เหมาะสมกับงานที่ต้องการพัฒนา ซึ่งส่งผลทั้งด้านประสิทธิภาพ และ การแก้ปัญหา
-
-<details>
-
-<summary>Output</summary>
-
-
-
-</details>
-
